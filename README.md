@@ -1,3 +1,10 @@
+Welcome
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+<details>
+  <summary><b>Klik Di Sini Untuk Melihat Perintah Script Nya</b></summary>
+  
 # CRACK/HACK AKUN FACEBOOK
 
 <h3 align="left">Cara Install Script:</h3>
