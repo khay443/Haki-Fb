@@ -3,7 +3,7 @@ Welcome To Haki Facebook
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 <details>
-  <summary><b> style="color:#1F45FC"Klik Di Sini Untuk Melihat Perintah Script Nya</b></summary>
+   <style>="color:blue"<summary><b>Klik Di Sini Untuk Melihat Perintah Script Nya</b></summary></style>
   
 # INI ADALAH SCRIPT/TOOLS UNTUK MELAKUKAN CRACKING PADA AKUN FACEBOOK
 
