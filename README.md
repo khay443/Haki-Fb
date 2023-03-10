@@ -5,7 +5,7 @@ Welcome To Haki Facebook
 <details>
    <summary><b>Klik Di Sini Untuk Melihat Perintah Script Nya</b></summary>
   
-!.[.].INI ADALAH SCRIPT/TOOLS UNTUK MELAKUKAN CRACKING PADA AKUN FACEBOOK
+# INI ADALAH SCRIPT/TOOLS UNTUK MELAKUKAN CRACKING PADA AKUN FACEBOOK
 
 <h3 align="left">Cara Install Script:</h3>
 
